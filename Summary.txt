@@ -1,0 +1,2 @@
+In this folder, we have a headlines.py that prints a simple message to the terminal
+The docker file runs, installs python/makes sure it is being used and then runs the headlines.py file
